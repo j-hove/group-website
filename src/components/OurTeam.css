@@ -125,11 +125,7 @@ body {
   letter-spacing: 2px;
   width: 100%;
 }
-.team-title h5 {
-  margin-bottom: 0px;
-  display: block;
-  text-transform: uppercase;
-}
+
 .team-title span {
   font-size: 12px;
   text-transform: uppercase;
