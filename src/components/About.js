@@ -19,7 +19,7 @@ function About() {
               </div>
               <div className="col-md">
                 <img 
-                  className="img-fluid"
+                  className="img-fluid d-none d-md-block"
                   src={aboutImg}
                   alt="team-coding"
                 />
