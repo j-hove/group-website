@@ -8,7 +8,7 @@ export default function App() {
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
       <Header />
-      <OurTeam name={["Emanon","Hazel","Jhoven"]} />
+      <OurTeam />
       <Footer year={new Date().getFullYear()} />
     </main>
   );
